@@ -1,6 +1,6 @@
 # Person
 
-This one is a simple person application to manage the information for a person using REAST API.
+This one is a simple person application to manage the information for a person using REST API.
 
 ### Steps to run the service locally:
 #### Create and Activate virtual environment:
